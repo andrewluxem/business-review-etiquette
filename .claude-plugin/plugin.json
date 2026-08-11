@@ -1,0 +1,17 @@
+{
+  "name": "business-review-etiquette",
+  "version": "1.0.0",
+  "description": "Turns supplied review material into an evidence-bound participation brief and etiquette audit. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/business-review-etiquette",
+  "repository": "https://github.com/andrewluxem/business-review-etiquette",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "business-review",
+    "meeting-etiquette"
+  ]
+}
