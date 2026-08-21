@@ -1,0 +1,23 @@
+{
+  "name": "business-review-etiquette",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Turns supplied review material into an evidence-bound participation brief and etiquette audit. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "business-review-etiquette",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Turns supplied review material into an evidence-bound participation brief and etiquette audit. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "business-review",
+        "meeting-etiquette"
+      ]
+    }
+  ]
+}
