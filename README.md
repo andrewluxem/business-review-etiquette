@@ -68,3 +68,9 @@ Plugin installation is version-pinned. When behavior changes, update the version
 ## License
 
 MIT. See [LICENSE](LICENSE). The canonical skill folder carries the same authorization in [skills/business-review-etiquette/LICENSE.md](skills/business-review-etiquette/LICENSE.md).
+
+---
+
+## More playbooks
+
+This skill packages one playbook from the free library at [github.com/andrewluxem/playbooks](https://github.com/andrewluxem/playbooks). Every playbook is free to read, with no email required.
